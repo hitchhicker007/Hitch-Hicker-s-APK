@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_web_developing"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        app:cardCornerRadius="10dp"
+        app:cardBackgroundColor="@color/darkcard"
+        android:layout_margin="15dp"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="10dp"
+            >
+
+            <ImageView
+                android:id="@+id/service_logo"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:background="@color/darkcard"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp"
+                >
+
+                <TextView
+                    android:id="@+id/service_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Web Developing"
+                    android:textColor="@color/whiteTextColor"
+                    android:textSize="25sp"
+                    android:fontFamily="@font/architects_daughter"
+                    />
+
+                <TextView
+                    android:id="@+id/service_desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:text="I Design and Develop Attractive, Fully Responsive, Fast And Secure Website. Make Your Dream Website Come True. You Can Get Very Cheap And Amazing Service Over Here."
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_marginTop="5dp"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
