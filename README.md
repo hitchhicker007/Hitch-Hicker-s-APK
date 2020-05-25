@@ -8,6 +8,7 @@ Download this app from playstore [Hitch Hicker APK](https://play.google.com/stor
 
 ### SCREENSHOT:
 ![DEMO](https://lh3.googleusercontent.com/mHM50EZ8_QQmdZmp3Ght0-Z8UQObaTc2kAnoDiCY2SSPJr6SL83v6A-Rj3wJ-7QKAyM=w1366-h667-rw)
+![DEMO](https://lh3.googleusercontent.com/EXuB_egQF2PiQiDvqp2vG67KM74NB-Sc7u_TKEnsxBrOPwsgHIeP4nwr7odDx7AZ0y0=w1366-h667-rw)
 
 ### LEGAL DESCLAIMER
 Developer assume no liability and are not responsible for any misuse or damage caused by this program.
